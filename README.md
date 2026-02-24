@@ -1,5 +1,5 @@
 # Connect 4 with AI Opponent 
-A two-player Connect 4 game built in Python with an optional AI opponent for CS 121.
+A two-player Connect 4 game built in Python with an optional AI opponent for CS 121 class. 
 
 ## 🎮 Features
 - Two-player mode (alternating turns)
@@ -7,15 +7,12 @@ A two-player Connect 4 game built in Python with an optional AI opponent for CS 
 - Win detection (horizontal, vertical, diagonal)
 - Clean console-based interface
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python 3
 - NumPy for board representation
 - Minimax algorithm basics for AI moves
 
-## 📸 Demo
-[Add a screenshot here once you upload]
-
-## 🧠 What I Learned
+## What I Learned
 - 2D array manipulation
 - Game state evaluation
 - Basic AI algorithm implementation
